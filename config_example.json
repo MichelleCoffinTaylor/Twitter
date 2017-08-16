@@ -1,0 +1,10 @@
+//	Best practice to include an example json file in projects
+//	This file will be uploaded to github.com
+
+//	json array
+{
+	"TConsumerKey" : "",
+	"TConsumerKeySecret" : "",
+	"TAcessToken" : "",
+	"TAcessTokenSecret" : ""
+}

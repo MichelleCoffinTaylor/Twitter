@@ -1,0 +1,14 @@
+body {
+	width: 50%;
+	height: 250px;
+	margin: 0 auto;
+}
+#heading {
+	float: left;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+#logo {
+	float: left;
+	padding-top: 10px;
+}

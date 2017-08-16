@@ -1,0 +1,30 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Twitter API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelleCoffinTaylor/Twitter.git"
+  },
+  "keywords": [
+    "API",
+    "Twitter"
+  ],
+  "author": "Michelle Coffin-Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichelleCoffinTaylor/Twitter/issues"
+  },
+  "homepage": "https://github.com/MichelleCoffinTaylor/Twitter#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "jquery": "^3.2.1",
+    "twit": "^2.2.9"
+  }
+}
